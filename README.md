@@ -1,5 +1,5 @@
 ## HandGestureRecognition
-### Libraries used: numpy, cv2, os, scipy, datetime, keras, random, tensorflow, skimage, 
+#### Libraries used: numpy, cv2, os, scipy, datetime, keras, random, tensorflow, skimage, 
 
 Problem Statement
 Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. Let's have professor Raghavan introduce you to the problem statement:
